@@ -3,21 +3,21 @@ entries:
   iter8-analytics:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-19T16:13:18.133651209+08:00"
+    created: "2022-01-19T16:16:48.605481106+08:00"
     description: iter8 Helm chart for Kubernetes
     digest: 158faf37fbb909696162059408dd1b53bb71fb3647d8e5c80cc18dabb8197144
     name: iter8-analytics
     urls:
-    - iter8-analytics-1.0.0.tgz
+    - https://lirui-1997.github.io/helm-chart/iter8-analytics-1.0.0.tgz
     version: 1.0.0
   iter8-controller:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-19T16:13:18.135569237+08:00"
+    created: "2022-01-19T16:16:48.6072569+08:00"
     description: iter8 Helm chart for Kubernetes
     digest: 3bfe67e8b18205ebc288e07799bd3d65f2ebd21e6d6ade754f6a269271ad6485
     name: iter8-controller
     urls:
-    - iter8-controller-1.0.0.tgz
+    - https://lirui-1997.github.io/helm-chart/iter8-controller-1.0.0.tgz
     version: 1.0.0
-generated: "2022-01-19T16:13:18.131759241+08:00"
+generated: "2022-01-19T16:16:48.603707089+08:00"
