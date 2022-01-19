@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  iter8-analytics:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-19T15:50:23.692405605+08:00"
+    description: iter8 Helm chart for Kubernetes
+    digest: 158faf37fbb909696162059408dd1b53bb71fb3647d8e5c80cc18dabb8197144
+    name: iter8-analytics
+    urls:
+    - https://lirui-1997.github.io/helm-chart/iter8-analytics-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-19T15:50:23.6914588+08:00"
