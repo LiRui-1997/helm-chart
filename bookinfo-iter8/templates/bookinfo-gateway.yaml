@@ -24,7 +24,6 @@ metadata:
   namespace: bookinfo-iter8
 spec:
   gateways:
-  - mesh
   - bookinfo-gateway
   hosts:
   - productpage
