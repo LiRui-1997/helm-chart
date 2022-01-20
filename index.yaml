@@ -3,18 +3,18 @@ entries:
   bookinfo-iter8:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-20T15:37:00.123738418+08:00"
+    created: "2022-01-20T15:42:45.190115312+08:00"
     description: A Helm chart for bookinfo-iter8
-    digest: 0eed82251124ce4d004cd3b1750ba2f8db7e9c05cf00551b1e9a746581ea49fb
+    digest: 9f6da6548063f587f500be7e2941acedef6d01bf1822599aec33379a2a82abea
     name: bookinfo-iter8
     type: application
     urls:
-    - https://lirui-1997.github.io/helm-chart/bookinfo-iter8-1.0.1.tgz
-    version: 1.0.1
+    - https://lirui-1997.github.io/helm-chart/bookinfo-iter8-2.0.0.tgz
+    version: 2.0.0
   iter8-analytics:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-20T15:37:00.124939+08:00"
+    created: "2022-01-20T15:42:45.19121137+08:00"
     description: iter8 Helm chart for Kubernetes
     digest: 158faf37fbb909696162059408dd1b53bb71fb3647d8e5c80cc18dabb8197144
     name: iter8-analytics
@@ -24,11 +24,11 @@ entries:
   iter8-controller:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-20T15:37:00.126696948+08:00"
+    created: "2022-01-20T15:42:45.193255328+08:00"
     description: iter8 Helm chart for Kubernetes
     digest: 3bfe67e8b18205ebc288e07799bd3d65f2ebd21e6d6ade754f6a269271ad6485
     name: iter8-controller
     urls:
     - https://lirui-1997.github.io/helm-chart/iter8-controller-1.0.0.tgz
     version: 1.0.0
-generated: "2022-01-20T15:37:00.121835662+08:00"
+generated: "2022-01-20T15:42:45.188000168+08:00"

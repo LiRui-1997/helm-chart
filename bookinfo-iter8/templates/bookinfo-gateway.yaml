@@ -26,7 +26,6 @@ spec:
   gateways:
   - bookinfo-gateway
   hosts:
-  - productpage
   - '*'
   http:
   - match:
