@@ -16,6 +16,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: reviews-v4
+  namespace: bookinfo-iter8
   labels:
     app: reviews
     version: v4

@@ -2,6 +2,7 @@ apiVersion: networking.istio.io/v1alpha3
 kind: Gateway
 metadata:
   name: bookinfo-gateway
+  namespace: bookinfo-iter8
 spec:
   selector:
     istio: ingressgateway # use istio default controller
@@ -20,6 +21,7 @@ metadata:
     iter8-tools/router: productpage.bookinfo-iter8.svc.cluster.local
     iter8-tools/role: stable
   name: bookinfo
+  namespace: bookinfo-iter8
 spec:
   gateways:
   - mesh
@@ -54,6 +56,7 @@ metadata:
     iter8-tools/router: productpage.bookinfo-iter8.svc.cluster.local
     iter8-tools/role: stable
   name: bookinfo
+  namespace: bookinfo-iter8
 spec:
   host: productpage
   subsets:
