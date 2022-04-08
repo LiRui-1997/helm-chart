@@ -35,7 +35,7 @@ configFile: config.yaml
 # Currently, only a single Prometheus metrics server is supported.
 metricsBackend:
   # The URL of the Prometheus server
-  url: "http://rancher-monitoring-prometheus.cattle-monitoring-system.svc:9090"
+  url: "http://prometheus.istio-system:9090"
 
   authentication:
     # Type of authentication required by the Prometheus server.
